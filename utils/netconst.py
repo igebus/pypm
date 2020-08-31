@@ -1,0 +1,7 @@
+STAT_ALIVE          = b"0"
+STAT_READY          = b"1"
+AUTH_OK             = b"2"
+AUTH_FAILED         = b"3"
+AUTH_DATAFILE       = b"4"
+CMD_PULL            = b"5"
+CMD_PUSH            = b"6"
